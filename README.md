@@ -16,7 +16,7 @@ Tecnologias Utilizadas
     Express: Framework utilizado para criar as rotas da aplicação.
     MongoDB: Banco de dados para armazenamento das informações dos usuários.
     Mongoose: Biblioteca para modelagem dos dados do usuário no MongoDB.
-  ~~Bcrypt: Biblioteca para hashing de senhas e verificação.~~
+      ~~Bcrypt: Biblioteca para hashing de senhas e verificação.~~
 
 Pré-requisitos
 
@@ -62,5 +62,4 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 
 Contato
-
-Seu Nome - arthurtromer93@gmail.com
+arthurtromer93@gmail.com
